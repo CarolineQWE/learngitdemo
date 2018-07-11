@@ -1,2 +1,2 @@
 git readme
-dev
+creating a new branch is quick & simple.
